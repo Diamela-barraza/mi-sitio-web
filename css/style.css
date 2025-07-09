@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.199)), linear-gradient(rgba(0, 0, 0, 0.199)),
+    url(/assets/img.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    color: aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.logo{
+    height: 100px;
+}
+.imagenes{
+    height: 130px;
+    border-color: aliceblue;
+    padding: 10px;
+}
+.formulario{
+    margin-top: 25px;
+    width: 395px;
+    text-align: center;
+    padding: 20px 20px 10px 20px;
+    background: linear-gradient(rgba(206, 79, 206, 0.466));
+
+}
+.registrate:hover{
+    color: rgb(45, 248, 26);
+}
